@@ -1,0 +1,13 @@
+D:\Projects\lab\PathoLab.IRepository\bin\Debug\netcoreapp3.1\PathoLab.IRepository.deps.json
+D:\Projects\lab\PathoLab.IRepository\bin\Debug\netcoreapp3.1\PathoLab.IRepository.dll
+D:\Projects\lab\PathoLab.IRepository\bin\Debug\netcoreapp3.1\PathoLab.IRepository.pdb
+D:\Projects\lab\PathoLab.IRepository\bin\Debug\netcoreapp3.1\PathoLab.Domain.dll
+D:\Projects\lab\PathoLab.IRepository\bin\Debug\netcoreapp3.1\PathoLab.Domain.pdb
+D:\Projects\lab\PathoLab.IRepository\obj\Debug\netcoreapp3.1\PathoLab.IRepository.csproj.AssemblyReference.cache
+D:\Projects\lab\PathoLab.IRepository\obj\Debug\netcoreapp3.1\PathoLab.IRepository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\lab\PathoLab.IRepository\obj\Debug\netcoreapp3.1\PathoLab.IRepository.AssemblyInfoInputs.cache
+D:\Projects\lab\PathoLab.IRepository\obj\Debug\netcoreapp3.1\PathoLab.IRepository.AssemblyInfo.cs
+D:\Projects\lab\PathoLab.IRepository\obj\Debug\netcoreapp3.1\PathoLab.IRepository.csproj.CoreCompileInputs.cache
+D:\Projects\lab\PathoLab.IRepository\obj\Debug\netcoreapp3.1\PathoLab.IRepository.csproj.CopyComplete
+D:\Projects\lab\PathoLab.IRepository\obj\Debug\netcoreapp3.1\PathoLab.IRepository.dll
+D:\Projects\lab\PathoLab.IRepository\obj\Debug\netcoreapp3.1\PathoLab.IRepository.pdb

@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZbHnSkSmugf9n42jC2RbspUfcAEPK6mhvw3vTx539jhel3EqLVwwl78OJKXjvA1Y0mW0PdZsOl1hfjFe4PJ4OQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sushanta.senapati\\Desktop\\Patholab\\lab - Copy\\PathoLAb\\PathoLab.Domain\\PathoLab.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sushanta.senapati\\.nuget\\packages\\barcode\\2023.3.2\\barcode.2023.3.2.nupkg.sha512",
+    "C:\\Users\\sushanta.senapati\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\bitmiracle.libtiff.net.2.4.649.nupkg.sha512",
+    "C:\\Users\\sushanta.senapati\\.nuget\\packages\\ironsoftware.system.drawing\\2023.3.1\\ironsoftware.system.drawing.2023.3.1.nupkg.sha512",
+    "C:\\Users\\sushanta.senapati\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\sushanta.senapati\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\sushanta.senapati\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\sushanta.senapati\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.0\\microsoft.extensions.logging.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\sushanta.senapati\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\sushanta.senapati\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\sushanta.senapati\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\sushanta.senapati\\.nuget\\packages\\sixlabors.imagesharp\\2.1.3\\sixlabors.imagesharp.2.1.3.nupkg.sha512",
+    "C:\\Users\\sushanta.senapati\\.nuget\\packages\\system.drawing.common\\4.7.0\\system.drawing.common.4.7.0.nupkg.sha512",
+    "C:\\Users\\sushanta.senapati\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",
+    "C:\\Users\\sushanta.senapati\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\sushanta.senapati\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\sushanta.senapati\\.nuget\\packages\\system.text.encoding.codepages\\5.0.0\\system.text.encoding.codepages.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

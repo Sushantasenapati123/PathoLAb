@@ -1,0 +1,10 @@
+D:\Projects\lab\PathoLab.Domain\bin\Debug\netcoreapp3.1\PathoLab.Domain.deps.json
+D:\Projects\lab\PathoLab.Domain\bin\Debug\netcoreapp3.1\PathoLab.Domain.dll
+D:\Projects\lab\PathoLab.Domain\bin\Debug\netcoreapp3.1\PathoLab.Domain.pdb
+D:\Projects\lab\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\lab\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.AssemblyInfoInputs.cache
+D:\Projects\lab\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.AssemblyInfo.cs
+D:\Projects\lab\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\lab\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.dll
+D:\Projects\lab\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.pdb
+D:\Projects\lab\PathoLab.Domain\obj\Debug\netcoreapp3.1\PathoLab.Domain.csproj.AssemblyReference.cache
